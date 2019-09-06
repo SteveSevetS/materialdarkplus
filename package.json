@@ -1,0 +1,30 @@
+{
+    "name": "materialdarkplus",
+    "displayName": "MaterialDarkPlus",
+    "description": "material theme dark plus",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "publisher": "SteveSevetS",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"Theme",
+		"Dark Theme"
+    ],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/johnpapa/vscode-winteriscoming.git"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "materialdarkplus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/materialdarkplus-color-theme.json"
+            }
+        ]
+    }
+}
