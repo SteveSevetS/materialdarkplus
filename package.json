@@ -3,6 +3,7 @@
     "displayName": "MaterialDarkPlus",
     "description": "material theme dark plus",
     "version": "0.0.1",
+    "license": "SEE LICENSE IN LICENSE.md",
     "engines": {
         "vscode": "^1.38.0"
     },
